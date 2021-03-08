@@ -15,18 +15,22 @@ source_metadata:
       title: ''
       volume_number: 2
       total_pages: 1266
+      base_file: v001.txt
     b98ceaceb22a43ada253ff8b1ff20ebe:
       image_group_id: I1CZ5003
       title: ''
       volume_number: 3
       total_pages: 1136
+      base_file: v002.txt
     51997b5ca73c4d90b205d69c5290fa44:
       image_group_id: I1CZ5004
       title: ''
       volume_number: 4
       total_pages: 1276
+      base_file: v003.txt
     c68e7da3d27d45afb9515fc0b2d0e554:
       image_group_id: I1CZ5005
       title: ''
       volume_number: 5
       total_pages: 928
+      base_file: v004.txt
