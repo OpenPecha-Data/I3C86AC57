@@ -1,0 +1,45 @@
+id: I3C86AC57
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2020-03-22T03:22:25+00:00'
+last_modified: '2022-06-08T05:43:26.648080+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
+source_metadata:
+  id: bdr:W00EGS1016299
+  title: གསུང་འབུམ། དྲི་མེད་འོད་ཟེར། ༼སྡེ་དགེ་པར་མ།༽
+  author: ''
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  base:
+    D043:
+      image_group_id: I1CZ5001
+      title: ''
+      total_pages: 1140
+      order: 1
+      base_file: D043.txt
+    06F1:
+      image_group_id: I1CZ5002
+      title: ''
+      total_pages: 1266
+      order: 2
+      base_file: 06F1.txt
+    877D:
+      image_group_id: I1CZ5003
+      title: ''
+      total_pages: 1136
+      order: 3
+      base_file: 877D.txt
+    7D97:
+      image_group_id: I1CZ5004
+      title: ''
+      total_pages: 1276
+      order: 4
+      base_file: 7D97.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
